@@ -1,0 +1,8 @@
+onnx
+onnx_tf
+tensorflow
+tensorflow_addons
+torch
+torchaudio
+torchvision
+transformers
